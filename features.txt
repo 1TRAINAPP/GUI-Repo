@@ -1,3 +1,3 @@
-feature-A-original-line-master-branch
+feature-A-master-branch
 feature-B
 feature-C
