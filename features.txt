@@ -1,4 +1,3 @@
-feature-A
-MASTER-feature
+GREEN-feature
 feature-B
 feature-C
