@@ -1,3 +1,3 @@
-feature-A-master-branch
+feature-A-NEW-line-feature-branch-is-great!
 feature-B
 feature-C
