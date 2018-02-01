@@ -2,3 +2,4 @@ feature-A-NEW-line-feature-branch-is-great!
 feature-B
 feature-C
 New change i wanted
+Did NOT want this change that I commited locally (did not push to github)
