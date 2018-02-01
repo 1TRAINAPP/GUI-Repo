@@ -2,3 +2,4 @@ feature-A-NEW-line-feature-branch-is-great!
 feature-B
 feature-C
 New change i wanted
+Change i want to reset HARD and completely get rid of
