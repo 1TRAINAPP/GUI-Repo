@@ -1,0 +1,4 @@
+feature-A
+MASTER-feature
+feature-B
+feature-C
