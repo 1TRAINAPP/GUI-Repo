@@ -8,3 +8,5 @@ git stash list
 git stash drop <stash>
 git stash list (should show the stashes gone)
 git diff (now we see our changes are back!)
+
+New Pricer function being worked on, but I may need to stash this change and come back to it later!
