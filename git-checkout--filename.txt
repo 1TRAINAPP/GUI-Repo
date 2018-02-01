@@ -1,1 +1,2 @@
 git checkout --filename.txt example
+A change I don't want to keep
