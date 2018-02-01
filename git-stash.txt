@@ -14,3 +14,6 @@ git stash pop (grabs first stash in the list of stashes, applies the changes, an
 git stash list (should show the stashes gone)
 
 git diff (now we see our changes are back!)
+
+
+This is a change I may want to stash away and come back to later!
