@@ -1,0 +1,5 @@
+Git Revert – Changes ALL the files for a specific commit back to their state before that commit was completed (git revert <commit ID>). 
+
+The reverted commit is NOT DELETED, git creates a new commit with the files reverted to their previous state.
+
+Version control history moves forward, while the state of your files moves backwards in this case.
