@@ -1,4 +1,3 @@
 feature-A-NEW-line-feature-branch
-
 feature-B
 feature-C
