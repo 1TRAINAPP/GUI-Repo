@@ -3,3 +3,4 @@ feature-B
 feature-C
 New change i wanted
 Change i want to reset HARD and completely get rid of
+CHANGES I WANT TO REVERT, I SHOULD STILL HAVE MY OLD COMMIT PRESENT BUT I WANT TO SEE THIS LINE GO AWAY FROM THIS FILE AND A NEW COMMIT HASH
