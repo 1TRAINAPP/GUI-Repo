@@ -1,16 +1,10 @@
 git stash - saves your local changes in a temporary place where you can go back and get to them later
 
+Example stash commands:
 git stash save "Worked on new pricer function"
-
 git stash list
-
 git stash apply  (took all changes from the stash but did not get rid of the stash)
-
 git stash list
-
-
 git stash pop (grabs first stash in the list of stashes, applies the changes, and drops the stash)
-
 git stash list (should show the stashes gone)
-
 git diff (now we see our changes are back!)
