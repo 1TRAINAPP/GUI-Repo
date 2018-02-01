@@ -1,2 +1,4 @@
 Mixed (default) Reset - Undoes the commit, also reset’s your staging area (outbox) to match the commit you went back to, 
 But does not alter your working files in your working directory (writer’s desk).
+
+I will not want this line to stick around! Going to do a git reset (mixed) !
